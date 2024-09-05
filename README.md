@@ -1,4 +1,4 @@
-Employee-Management-System
+Employee Management System
 
 The Employee Management System is a Java-based web application designed to manage employee information efficiently. It provides functionality to perform CRUD (Create, Read, Update, Delete) operations on employee data. This project is built using Java, Spring Boot, Maven, and follows the Model-View-Controller (MVC) architecture pattern.
 
